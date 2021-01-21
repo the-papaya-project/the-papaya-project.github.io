@@ -12,6 +12,15 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+## Workshop 104 : Going Through A Process of Whitening: Student Experiences Within Computer Science Education
+### Workshop organizers : Earl W. Huff Jr., Francisco Castro, Gayithri Jayathirtha, Yerika Jimenez, Minji Kong, Natalie Melo, Amber Solomon and Jennifer Tsan
+
+### Block 1 - Saturday, March 13 @ 9:00am-12:00pm (ET)
+
+In what ways have we had to assimilate (or, in particular to structural racism, “whiten”) ourselves and our work into dominant ideals and narratives? In this workshop, we’ll take a look at how systems of power–such as structural racism, a system that upholds the ideology of white supremacy–permeate through our everyday lives and un/intentionally into our research. Grounding ourselves in a shared language, we will engage in a critical reflection of the impacts of these systems in our lives and work. We will examine what is considered central or “legitimate” in Computer Science Education (CSEd) research and work to understand how we knowingly and unknowingly perpetuate these systems ourselves. Striving towards a critical consciousness in the field, we invite graduate students and early-career (non-faculty) researchers to deeply engage in these questions as the beginning of envisioning what a CSEd that valued the multiple ways of knowing, doing, and being could look like.
+
+In an effort to promote a safe space for discussions, this workshop’s audience will primarily focus on graduate students and early-career (non-faculty) researchers working in and across CSEd in some capacity (e.g., CSEd researchers in HCI, Learning Sciences, K-12 education, etc.). Researchers whose work directly focuses on or intersects CSEd are welcome to attend. To participate, register for the workshop via the usual SIGCSE Technical Symposium registration process. We have a maximum of 40 slots for this workshop. This year, SIGCSE will be fully-online. Participants will need to have a computer with reliable Internet access to participate in the workshop. Further details regarding the workshop platform will be communicated to participants through email.
+
 - Bulleted
 - List
 
@@ -23,12 +32,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/the-papaya-project/thepapayaproject.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
