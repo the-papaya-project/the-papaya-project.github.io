@@ -4,10 +4,10 @@ Historically, the Philippines has been westernized and colonized by many nations
 
 Join us at our SIGCSE 2021 workshop!
 
-## Workshop 104 : Going Through A Process of Whitening: Student Experiences Within Computer Science Education
-### Workshop organizers : Earl W. Huff Jr., Francisco Castro, Gayithri Jayathirtha, Yerika Jimenez, Minji Kong, Natalie Melo, Amber Solomon and Jennifer Tsan
+### Workshop 104 : Going Through A Process of Whitening: Student Experiences Within Computer Science Education
+#### Workshop organizers : Earl W. Huff Jr., Francisco Castro, Gayithri Jayathirtha, Yerika Jimenez, Minji Kong, Natalie Melo, Amber Solomon and Jennifer Tsan
 
-### Block 1 - Saturday, March 13 @ 9:00am-12:00pm (ET)
+#### Block 1 - Saturday, March 13 @ 9:00am-12:00pm (ET)
 
 In what ways have we had to assimilate (or, in particular to structural racism, “whiten”) ourselves and our work into dominant ideals and narratives? In this workshop, we’ll take a look at how systems of power–such as structural racism, a system that upholds the ideology of white supremacy–permeate through our everyday lives and un/intentionally into our research. Grounding ourselves in a shared language, we will engage in a critical reflection of the impacts of these systems in our lives and work. We will examine what is considered central or “legitimate” in Computer Science Education (CSEd) research and work to understand how we knowingly and unknowingly perpetuate these systems ourselves. Striving towards a critical consciousness in the field, we invite graduate students and early-career (non-faculty) researchers to deeply engage in these questions as the beginning of envisioning what a CSEd that valued the multiple ways of knowing, doing, and being could look like.
 
