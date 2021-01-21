@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Papaya Project
 
-You can use the [editor on GitHub](https://github.com/the-papaya-project/thepapayaproject.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Historically, the Philippines has been westernized and colonized by many nations. One of the most significant impacts of this was on Filipino culture and self-image, where beauty, identity, and worth is embodied and looked for in the western white form. This led to an obsession by Filipinos on the papaya (and papaya-related products, such as the papaya soap -- e.g. the Likas papaya soap brand), which has been claimed to lighten/whiten the skin. It mostly started with Filipino women using papaya and papaya-products to lighten their skin so they would be deemed "acceptable" to society and the greater western eye, as well as in the workplace, family, and other social structures. In more recent years, Filipino men have also become obsessed with lightening themselves, for the same reason and purpose: acceptance and white visibility. The papaya has thus become an object of neocolonial imposition onto the Filipino culture and people -- it serves to "whiten" the history, identity, and self-image.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
