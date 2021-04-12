@@ -5,7 +5,7 @@ The Papaya Project is an initiative towards identifying and critically addressin
 
 ## Founders
 - Francisco Castro, PhD - University of Massachusetts Amherst
-- Earl Huff - Clemson University
+- Earl W. Huff Jr - Clemson University
 - Gayithri Jayathirtha - University of Pennsylvania
 - Yerika Jimenez - University of Florida
 - Minji Kong - University of Delaware
@@ -34,6 +34,6 @@ In what ways have we had to assimilate (or, in particular to structural racism, 
 
 In an effort to promote a safe space for discussions, this workshop’s audience will primarily focus on graduate students and early-career researchers working in and across CSEd in some capacity (e.g., CSEd researchers in HCI, Learning Sciences, K-12 education, etc.). Researchers whose work directly focuses on or intersects CSEd are welcome to attend. To participate, register for the workshop via the usual SIGCSE Technical Symposium registration process. We have a maximum of 40 slots for this workshop. This year, SIGCSE will be fully-online. Participants will need to have a computer with reliable Internet access to participate in the workshop. Further details regarding the workshop platform will be communicated to participants through email.
 
-[Register here](https://sigcse2021.sigcse.org/attendees/)
+[More info](https://sigcse2021.sigcse.org/schedule/workshops/#workshop-104)
 
 
