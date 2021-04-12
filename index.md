@@ -1,6 +1,6 @@
 ## Welcome to the Papaya Project
 
-The Papaya Project is an initiative towards identifying and critically addressing inequities and bias in computing and computing education research, with the goal of transforming computing education and thebroader computing discipline into a more inclusive and equitable field.
+The Papaya Project is an initiative towards identifying and critically addressing inequities and bias in computing and computing education research, with the goal of transforming computing education and the broader computing discipline into a more inclusive and equitable field.
 
 
 ## Founders
@@ -14,10 +14,13 @@ The Papaya Project is an initiative towards identifying and critically addressin
 - Jennifer Tsan, PhD - University of Chicago
 
 
-## Our Key Symbol System: The Papaya
-We draw from the Philippines’ colonial history and assimilation to dominant western ideologies. The Philippines is a southeast Asian country that is historically colonized by many nations, in particular by Spain and the United States. Some of the most significant impacts of these colonizations were on Filipino culture, self-image, and way of living. These colonizations impacted Filipinos’ conceptions of beauty, identity, worth, and even ability, and these have become embodied in the western white form. From the periods of colonization until now, brown Filipinos have been considered as “less than” by their lighter-skinned colonizers. This colonial dynamic led to an obsession by Filipinos on the papaya, which has been claimed to lighten or whiten the skin, building and enculturating the idea among Filipinos that, if they were able to whiten their skin, then they would be seen as equals, and so they would be deemed “acceptable” to society, their workplaces, their families, and their other social structures. In other words, the papaya has become a vehicle towards acceptance and white visibility. From a bigger perspective, the papaya served to “whiten” the Filipinos’ history, their identities, their self-image -- and it is this symbol of whitening that we draw from.
+### We are in the process of updating -- watch out for our new website soon!
 
-Some of the key questions we tackle are about the ways that people have had to assimilate or “whiten” themselves and their work into current dominant ideals and narratives -- we are in an ongoing process of discussing and unpacking how we, and many minoritized groups, have had to navigate systems that uphold white supremacy. So we ask: “What is our Papaya?” What are these constructs that push us to whiten ourselves and our narratives?
+
+## Our Key Symbol System: The Papaya
+We draw from the Philippines’ colonial history and assimilation to dominant western ideologies. The Philippines is a southeast Asian country historically colonized by many nations, in particular by Spain and the United States. Some of the most significant impacts of these colonizations were on Filipino culture, self-image, and way of living. These colonizations impacted Filipinos’ conceptions of beauty, identity, worth, and even ability, and these have become embodied in the western white form. From the periods of colonization until now, brown Filipinos have been considered as “less than” by their lighter-skinned colonizers. This colonial dynamic led to an obsession by Filipinos on the papaya, which has been claimed to lighten or whiten the skin, building and enculturating the idea among Filipinos that, if they were able to whiten their skin, then they would be seen as equals, and so they would be deemed “acceptable” to society, their workplaces, their families, and their other social structures. In other words, the papaya has become a vehicle towards acceptance and white visibility. From a bigger perspective, the papaya served to “whiten” the Filipinos’ history, their identities, their self-image -- and it is this symbol of whitening that we draw from.
+
+Some of the key questions we tackle are about the ways that people have had to assimilate or “whiten” themselves and their work into current dominant ideals and narratives -- we are in an ongoing process of discussing and unpacking how we, and many minoritized groups, have had to navigate systems that uphold white supremacy. So we ask: What is our "Papaya"? What are these constructs that push us to whiten ourselves and our narratives?
 
 
 ## Join us at our SIGCSE 2021 workshop!
