@@ -1,5 +1,18 @@
 ## Welcome to the Papaya Project
 
+The Papaya Project is an initiative towards identifying and critically addressing inequities and bias in computing and computing education research, with the goal of transforming computing education and thebroader computing discipline into a more inclusive and equitable field.
+
+## Founders
+- Francisco Castro, PhD - University of Massachusetts Amherst
+- Earl Huff - Clemson University
+- Gayithri Jayathirtha - University of Pennsylvania
+- Yerika Jimenez - University of Florida
+- Minji Kong - University of Delaware
+- Natalie Araujo Melo - Northwestern University
+- Amber Solomon, PhD - Georgia Institute of Technology
+- Jennifer Tsan, PhD - University of Chicago
+
+## Drawing our Inspiration from the Papaya
 Historically, the Philippines has been westernized and colonized by many nations. One of the most significant impacts of this was on Filipino culture and self-image, where beauty, identity, and worth is embodied and looked for in the western white form. This led to an obsession by Filipinos on the papaya (and papaya-related products, such as the papaya soap -- e.g. the Likas papaya soap brand), which has been claimed to lighten/whiten the skin. It mostly started with Filipino women using papaya and papaya-products to lighten their skin so they would be deemed "acceptable" to society and the greater western eye, as well as in the workplace, family, and other social structures. In more recent years, Filipino men have also become obsessed with lightening themselves, for the same reason and purpose: acceptance and white visibility. The papaya has thus become an object of neocolonial imposition onto the Filipino culture and people -- it serves to "whiten" the history, identity, and self-image.
 
 Join us at our SIGCSE 2021 workshop!
