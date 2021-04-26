@@ -22,6 +22,15 @@ We draw from the Philippines’ colonial history and assimilation to dominant we
 
 Some of the key questions we tackle, particularly in computing and computing education research, are about the ways that people have had to assimilate or “whiten” themselves and their work into current dominant ideals and narratives -- we are in an ongoing process of discussing and unpacking how we, and many minoritized groups, have had to navigate systems that uphold white supremacy. So we ask: What is our "Papaya"? What are these constructs that push us to whiten ourselves, our narratives, our identities, and our work? How do we push back against these inequities towards a more inclusive and equitable computing discipline?
 
+---
+
+## Join us at our ICER 2021 workshop!
+
+### Workshop: Examining and Redesigning Computing Education Research to Center Equity
+
+Details to follow soon!
+
+---
 
 ## Join us at our SIGCSE 2021 workshop!
 
