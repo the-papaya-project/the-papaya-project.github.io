@@ -44,9 +44,9 @@ Systems of power—such as structural racism, which upholds the ideology of whit
 
 We will examine our papayas, the ways in which we changed our identity, behaviors, or actions to assimilate into the field of computing. This workshop brings together academic (e.g., students, faculty, researchers) and industry (e.g., engineers, managers, researchers) professionals in computing to critically examine current practices and unpack the impacts of systems of power that shape our participation, research and design practices. Such examination is necessary to center equity and justice, and strive towards a critical consciousness in the CS field. To do so, we will investigate questions like the following: What are systems of power? Who has the right to participate? Who has the right to exclude? We will use group-based activities that center historicities and “outsider” knowledge to examine computing practices and theories to answer these questions. We will draft individual commitments that we can make to rid ourselves of our papayas.
 
-If you have any questions feel free to email us (thepapayaproject2020@gmail.com) or tweet us at @Papaya_Project. We look forward to seeing you at TAPIA!
+If you have any questions feel free to email us (thepapayaproject2020@gmail.com) or tweet us at [https://twitter.com/Papaya_Project](@Papaya_Project). We look forward to seeing you at TAPIA!
 
-Official program here: [https://tapiaconference.cmd-it.org/attend/presentation/?id=acad121&sess=sess197]https://tapiaconference.cmd-it.org/attend/presentation/?id=acad121&sess=sess197.
+Official program here: [https://tapiaconference.cmd-it.org/attend/presentation/?id=acad121&sess=sess197](https://tapiaconference.cmd-it.org/attend/presentation/?id=acad121&sess=sess197).
 
 ---
 
