@@ -46,6 +46,8 @@ We will examine our papayas, the ways in which we changed our identity, behavior
 
 If you have any questions feel free to email us (thepapayaproject2020@gmail.com) or tweet us at @Papaya_Project. We look forward to seeing you at TAPIA!
 
+Official program here: [https://tapiaconference.cmd-it.org/attend/presentation/?id=acad121&sess=sess197]https://tapiaconference.cmd-it.org/attend/presentation/?id=acad121&sess=sess197.
+
 ---
 
 ## Join us at our ICER 2021 workshop!
