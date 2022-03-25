@@ -6,7 +6,7 @@ The Papaya Project is an initiative towards identifying and critically addressin
 ## Founders
 - Francisco Castro, PhD - New York University
 - Earl W. Huff Jr - Clemson University
-- Gayithri Jayathirtha - University of Pennsylvania
+- Gayithri Jayathirtha, PhD - University of Pennsylvania
 - Yerika Jimenez - University of Florida
 - Minji Kong - University of Delaware
 - Natalie Araujo Melo - Northwestern University
