@@ -17,7 +17,11 @@ body {
   line-height:26px;
 }
 
-p{
+p {
+  color: $black-light;
+}
+
+li {
   color: $black-light;
 }
 
