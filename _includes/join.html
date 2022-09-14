@@ -1,0 +1,20 @@
+<!-- Join Start -->
+{% assign dec = site.data.homepage_2.decorations %}
+<section class="section-sm counter-section bg-secondary position-relative">
+	<img src="{{dec.overlay-light | relative_url }}" alt="" class="overlay-shape">
+	<div class="container">
+		<div class="row">		
+			<div class="col-12 text-center">
+				<div class="counter-content mb-5 mb-lg-0">
+					<div>
+						<h2 class="mb-0"><span class="counter">Join the Community!</span></h2>
+						{% if page.button.enable %}
+			            <a href="{{page.button.link}}" class="btn btn-primary">{{page.button.label}}</a>
+			            {% endif %}
+					</div>
+				</div>
+			</div>	
+		</div>
+	</div>
+</section>
+<!-- Join End -->

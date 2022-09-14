@@ -1,0 +1,116 @@
+################## Hero Area #######################
+hero_area:
+  title : "Welcome"
+  image : "/assets/images/papaya.png"
+  alt: "papaya painting"
+  content : >-
+    The Papaya Project is an initiative towards identifying and critically addressing 
+    inequities and bias in computing and computing education research, with the goal of 
+    transforming computing education and the broader computing discipline into a more 
+    inclusive and equitable field.
+  button:
+    enable : true
+    label : "Read Our Open Letter to the CS Ed Community"
+    link : "/letter"
+
+###################### Decorative Attributes #####################
+decorations:
+  overlay-light : "/assets/images/bg/overlay-light.png"
+
+###################### Services #####################
+services:
+  enable : true
+  bg_image : "/assets/images/bg/feature-bg.png"
+  item:
+  - name : "Why the Papaya"
+    icon : "ti-ruler-pencil"
+    content : >-
+      We draw from the Philippines’ colonial history and assimilation to dominant 
+      western ideologies. The Philippines is a southeast Asian country historically 
+      colonized by many nations, in particular by Spain and the United States. 
+      Some of the most significant impacts of these colonizations were on Filipino 
+      culture, self-image, and way of living. Read more about the <a href="/about#symbolism">papaya symbolism</a>.
+    
+  - name : "What We Do"
+    icon : "ti-announcement"
+    content : >-
+      Some of the key questions we tackle, particularly in computing and computing 
+      education research, are about the ways that people have had to assimilate or 
+      “whiten” themselves and their work into current dominant ideals and narratives-– 
+      we are in an ongoing process of discussing and unpacking how we, and many 
+      minoritized groups, have had to navigate systems that uphold white supremacy.
+
+################## About ###########################
+about:
+  enable : true
+  subtitle : "Our Key Symbol"
+  title : "The Papaya"
+  pic : "/assets/images/about/about.png"
+  bg_image: "/assets/images/bg/feature-bg.png"
+  alt: "painting of a papaya half placed over another papaya half"
+  content : >-
+    We draw from the Philippines’ colonial history and assimilation to dominant 
+    western ideologies. The Philippines is a southeast Asian country historically 
+    colonized by many nations, in particular by Spain and the United States. Some of 
+    the most significant impacts of these colonizations were on Filipino culture, 
+    self-image, and way of living. These colonizations impacted Filipinos’ conceptions 
+    of beauty, identity, worth, and even ability, and these have become embodied in 
+    the western white form. From the periods of colonization until now, brown 
+    Filipinos have been considered as “less than” by their lighter-skinned colonizers. 
+    This colonial dynamic led to an obsession by Filipinos on the papaya, which has 
+    been claimed to lighten or whiten the skin, building and enculturating the idea 
+    among Filipinos that, if they were able to whiten their skin, then they would 
+    be seen as equals, and so they would be deemed “acceptable” to society, their 
+    workplaces, their families, and their other social structures. In other words, 
+    the papaya has become a vehicle towards acceptance and white visibility. 
+    From a bigger perspective, the papaya served to “whiten” the Filipinos’ history, 
+    their identities, their self-image-– and it is this symbol of whitening that we draw from.
+  button:
+    enable : false
+    label : "Learn More"
+    link : "#"
+
+###################### Team ######################
+team:
+  enable : true
+  item:
+  - name : "Francisco Castro, PhD"
+    designation : "New York University"
+    image : "/assets/images/team/Francisco.jpg"
+    alt: "headshot of Francisco Castro, PhD"
+    
+  - name : "Earl W. Huff Jr, PhD"
+    designation : "University of Texas at Austin"
+    image : "/assets/images/team/Earl.jpg"
+    alt: "headshot of Earl W. Huff Jr, PhD"
+    
+  - name : "Gayithri Jayathirtha, PhD"
+    designation : "University of Oregon"
+    image : "/assets/images/team/Gayithri.jpg"
+    alt: "headshot of Gayithri Jayathirtha, PhD"
+    
+  - name : "Yerika Jimenez"
+    designation : "University of Florida"
+    image : "/assets/images/team/Yerika.jpg"
+    alt: "headshot of Yerika Jimenez"
+
+  - name : "Minji Kong"
+    designation : "University of Delaware"
+    image : "/assets/images/team/Minji.jpg"
+    alt: "headshot of Minji Kong"
+
+  - name : "Natalie Araujo Melo"
+    designation : "Northwestern University"
+    image : "/assets/images/team/Natalie.jpg"
+    alt: "headshot of Natalie Araujo Melo"
+
+  - name : "Amber Solomon, PhD"
+    designation : "Georgia Institute of Technology"
+    image : "/assets/images/team/Amber.jpg"
+    alt: "headshot of Amber Solomon, PhD"
+
+  - name : "Jennifer Tsan, PhD"
+    designation : "University of Chicago"
+    image : "/assets/images/team/Jennifer.jpg"
+    alt: "headshot of Jennifer Tsan, PhD"
+
